@@ -1,0 +1,15 @@
+*.log
+
+#empty/
+
+#/empty
+
+empty/
+
+# below line helps in ignoring any 'static' folder no matter where it is
+#static/  
+
+# below line to ignore only outer / outmost static folder
+/static/  
+
+first_excel.xlsx
