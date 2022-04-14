@@ -1,0 +1,5 @@
+THis is a file that we're going to stage first 
+and then unstage it.
+
+Now this file is modified.
+Gone.
